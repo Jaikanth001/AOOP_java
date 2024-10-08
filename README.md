@@ -30,4 +30,5 @@ cd AOOP_java
 ## Prerequisites
 
 Java JDK (version 8 or higher)
+
 Maven (for dependency management)
