@@ -1,0 +1,3 @@
+rootProject.name = 'contentmanager'
+include 'shared', 'api', 'application', "ui"
+
