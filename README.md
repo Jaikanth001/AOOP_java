@@ -15,8 +15,7 @@ This repository is dedicated to my college assignments, where I upload files rel
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Prerequisites](#prerequisites)
 
 ## Installation
 
