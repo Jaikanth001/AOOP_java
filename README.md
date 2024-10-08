@@ -31,14 +31,3 @@ cd AOOP_java
 
 Java JDK (version 8 or higher)
 Maven (for dependency management)
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements.
-
-Steps to Contribute
-Fork the repository.
-Create your feature branch (git checkout -b feature/MyFeature).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/MyFeature).
-Open a pull request.
